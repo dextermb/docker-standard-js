@@ -1,6 +1,6 @@
 FROM node:14.15-alpine3.14
 
-MAINTAINER geniousphp "geniousphp@gmail.com"
+MAINTAINER dextermb "dexter@marks-barber.co.uk"
 
 RUN npm install -g standard@16.0.3 \
 	&& npm install -g standard-reporter@1.0.5 \
